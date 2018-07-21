@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Page1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Page1\ here.\r\n\ \r\n\ @author\ Pink\ Programming\ \r\n\ @version\ 1.4\r\n
+comment1.params=
+comment1.target=Page1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Page1.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ setNext()
+comment3.params=
+comment3.target=void\ setMusic()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=5
