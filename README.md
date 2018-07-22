@@ -16,8 +16,8 @@ The workshop targeted beginners in programming. It made heavy use of the open so
 
 #### Workshop material
 
-* Introduction slides
-* Workshop walkthrough, version 1.0 - 1.3
+* [Introduction slides](Workshop_short-story-text-game_slides.pdf)
+* [Workshop walkthrough](Workshop_short-story-text-game_tutorial.pdf), version 1.0 - 1.3
 * Greenfoot project files, version 1.0 - 1.4
 
 ![GameDev camp mascot](codetiger.gif)
