@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BgMusic
+comment0.text=\r\n\ BgMusic\ handles\ Background\ Music,\ as\ optional\ part\ of\ a\ "Page"\r\n\ \r\n\ @author\ PinkProgramming\r\n\ @version\ 1.4\r\n
+comment1.params=filePath
+comment1.target=BgMusic(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ BgMusic\ with\ one\ sound\ file\ on\ repeat\r\n
+comment2.params=filePathIntro\ filePath
+comment2.target=BgMusic(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ BgMusic\ with\ one\ sound\ as\ intro,\ and\ next\ file\ on\ repeat\r\n
+comment3.params=
+comment3.target=void\ startIntro()
+comment4.params=
+comment4.target=void\ startRepeat()
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ Update\ logic\ for\ playback\r\n
+numComments=6

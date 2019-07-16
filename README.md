@@ -1,23 +1,1 @@
-# Game Development Summer Camp 2018
-
-This is the workshop material created for Pink Programming's first GameDev camp, which was held 2018 July 16-21 in Järvsö. 
-
-The workshop targeted beginners in programming. It made heavy use of the open source game programming tool called [Greenfoot](https://www.greenfoot.org), developed at Kings' Collage London with support from Oracle. It is free software released under GPL license, for Windows, Mac, Linux or any recent JVM. 
-
-## Contents 
-
-### Greenfoot
-
-* Installer files, version 3.1, used for workshops
-* Greenfoot API docs, offline version
-* Greenfoot programmer's tutorial
-
-### Text Game Example
-
-#### Workshop material
-
-* [Introduction slides](Workshop_short-story-text-game_slides.pdf)
-* [Workshop walkthrough](Workshop_short-story-text-game_tutorial.pdf), version 1.0 - 1.3
-* Greenfoot project files, version 1.0 - 1.4
-
-![GameDev camp mascot](codetiger.gif)
+# Pink Programming - Game Dev Camp 2018Workshop material created for Pink Programming's first GameDev Summer Camp, 2018 July 16-21 in Järvsö. ![tiger camp mascot](codetiger.gif) ----The workshop target beginners in programming. It makes heavy use of the open source game programming tool called Greenfoot, developed at Kings' Collage London with support from Oracle. It is free software released under GPL license, for Windows, Mac, Linux or any recent JVM.## Contents ## `/PPJavaExercises`* Additional installation guide - for getting started coding in Eclipse IDE. * Java programming basics - useful not only for game programmingThese Java exercises were introduced half way through the camp in order to support basic programming skills, without the distraction of game development specifics. ## `/PPTextGameWorkshop`* Inspirational slides - introducing the universe of text games* Workshop instructions - step by step for how to make a greenfoot game support animated and text based narratives* `*.gfar`-files - greenfoot example projects, versions reflecting each chapter in the workshop instructionsNear the end of the camp, this workshop was used to provide a unique PP made game example, differing in genre from tutorials and examples provided by Oracle and Greenfoot organizations. ## `/PP_GameDevCamp2018_-_Installation_Guide.pdf`Minimum installation guide covering the whole camp## `/GameDev_in_Greenfoot_introduction.pdf`Introduction slides to Greenfoot and basic game programming. ## `/Greenfoot_install.pdf`Detailed installation instructions for Windows, MacOsX and Ubuntu. ## `/Greenfoot_Course_Scenarios`Example files used in the Greenfoot introduction## `/Greenfoot_API_Documentation` Handy offline version of all commands built-in to the Greenfoot game engine. ----## LicenseThe development software Greenfoot [(c) 2005-2015 Michael Kölling, Poul Henriksen](https://www.greenfoot.org) and JavaSDK [(c) 2018 Oracle Corporation](https://www.oracle.com/javase) are provided under cost free conditions provided in each software package. Greenfoot version 3.1.0 was released under GPL 2. JavaSDK1.8 uses special licensing agreements available at its official download page. The course contents in this repo can be used freely under MIT license, meaning that attribution is required. Pink Programming organization name and source link should be provided when remixed or redistributed. 

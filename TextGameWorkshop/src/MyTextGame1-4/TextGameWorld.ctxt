@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TextGameWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextGameWorld\ here.\r\n\ \r\n\ @author\ Pink\ Programming\ \r\n\ @version\ 1.4\r\n
+comment1.params=
+comment1.target=TextGameWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextGameWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setNext()
+comment3.text=\r\n\ Override\ when\ subclass\ should\ link\ to\ another\r\n
+comment4.params=
+comment4.target=void\ setMusic()
+comment4.text=\r\n\ Override\ when\ subclass\ should\ link\ to\ another\r\n
+comment5.params=
+comment5.target=void\ changePage()
+comment5.text=\r\n\ Instantly\ switches\ the\ game\ to\ the\ world\ set\ as\ next\r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7
